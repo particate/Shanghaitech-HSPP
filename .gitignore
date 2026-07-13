@@ -1,2 +1,6 @@
-/codex/
-/（不开源）/
+/.codex/
+/.agents/
+/不开源/
+~$*
+.DS_Store
+Thumbs.db
